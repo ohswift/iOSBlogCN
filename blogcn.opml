@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
 <outline text="OneV's Den" title="OneV's Den" type="rss" xmlUrl="http://onevcat.com/atom.xml" htmlUrl="http://onevcat.com"/>
-<outline text="一只魔法师的工坊" title="一只魔法师的工坊" type="rss" xmlUrl="http://blog.ibireme.com/feed/" htmlUrl="http://blog.ibireme.com/"/>
+<outline type="rss" text="Garan no dou" title="Garan no dou" xmlUrl="http://blog.ibireme.com/feed/" htmlUrl="http://blog.ibireme.com"/>
 <outline text="破船之家" title="破船之家" type="rss" xmlUrl="http://beyondvincent.com/atom.xml" htmlUrl="http://beyondvincent.com"/>
 <outline text="NSHipster" title="NSHipster" type="rss" xmlUrl="http://nshipster.cn/feed.xml" htmlUrl="http://nshipster.cn"/>
 <outline text="Limboy 无网不剩" title="Limboy 无网不剩" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="http://blog.leezhong.com/"/>
@@ -55,4 +55,11 @@
 <outline text="老谭笔记" title="老谭笔记" type="rss" xmlUrl="http://www.tanhao.me/atom.xml" htmlUrl="http://www.tanhao.me/"/>
 <outline text="coderyi" title="coderyi" type="rss" xmlUrl="http://www.coderyi.com/feed" htmlUrl="http://www.coderyi.com/"/>
 <outline text="雷纯锋的技术博客" title="雷纯锋的技术博客" type="rss" xmlUrl="http://blog.leichunfeng.com/atom.xml" htmlUrl="http://blog.leichunfeng.com"/>
-<outline text="向晨宇的技术博客" title="向晨宇的技术博客" type="rss" xmlUrl="http://iosxxx.com/atom.xml" htmlUrl="http://www.iosxxx.com/"/></outline></body></opml>
+<outline text="向晨宇的技术博客" title="向晨宇的技术博客" type="rss" xmlUrl="http://iosxxx.com/atom.xml" htmlUrl="http://www.iosxxx.com/"/>
+<outline type="rss" text="念茜的博客" title="念茜的博客" xmlUrl="http://nianxi.net/feed.xml" htmlUrl="http://nianxi.net"/>
+<outline type="rss" text="CocoaChina_让移动开发更简单- 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区" title="CocoaChina_让移动开发更简单- 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区" xmlUrl="http://www.cocoachina.com/cms/rss.php" htmlUrl="http://www.cocoachina.com"/>	
+<outline type="rss" text="Kitten's 时间胶囊" title="Kitten's 时间胶囊" xmlUrl="http://kittenyang.com/rss/" htmlUrl="http://kittenyang.com/"/>
+<outline type="rss" text="Ray WenderlichRay Wenderlich" title="Ray WenderlichRay Wenderlich" xmlUrl="http://feeds.feedburner.com/RayWenderlich" htmlUrl="https://www.raywenderlich.com"/>
+<outline type="rss" text="bignerdranch.com" title="bignerdranch.com" xmlUrl="http://blog.bignerdranch.com/feed/" htmlUrl="https://www.bignerdranch.com"/>
+<outline type="rss" text="iOS Dev Weekly" title="iOS Dev Weekly" xmlUrl="http://iosdevweekly.com/issues.rss" htmlUrl="http://iosdevweekly.com/issues"/>
+</outline></body></opml>
